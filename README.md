@@ -32,7 +32,7 @@ There are two required parameters to specify which solution should be executed. 
 python main.py 6 a
 ```
 
-To select a different input for the solution, use option `--task-input`. The default value is `test`. To execute solution with actual puzzle input the following command.
+To select a different input for the solution, use option `--task-input`. The default value is `test`. To execute solution with actual puzzle input run the following command.
 
 
 ```shell

@@ -53,3 +53,7 @@ INFO:2022-12-15 18:42:05,328:__main__:Expected result: 7
 INFO:2022-12-15 18:42:05,328:__main__:Success!!
 
 ```
+
+## Disclaimer 🎁
+
+The solutions were optimized for implementation speed (I didn't want to finish last obviously 🐢) with reasonable focus on code quality on the other hand. Therefore, solutions are by no means optimal and there should be cleaner and faster solutions around.

@@ -2,7 +2,7 @@
 
 [Advent of Code 2022](https://adventofcode.com/) solutions in Python.
 
-## Requirements
+## Requirements ⚒
 
 The solutions are intended for Python 3.11, although the majority of the solutions should work even with older versions of Python. Required Python packages are specified in [requirements.txt](requirements.txt). Use `pip` to install them.
 
@@ -10,7 +10,7 @@ The solutions are intended for Python 3.11, although the majority of the solutio
 pip install -r requirements.txt
 ```
 
-## Running Solutions
+## Running Solutions 🏃
 
 The repository contains a [script](src/main.py)  designed for running solutions and comparing expected result with produced result. To use it, navigate first to the `src` directory inside the project repository.
 
